@@ -4,16 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelloWorld
+namespace ForLoop
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
-            Console.WriteLine("Hello World");
+            int number = 15;
+            for (int i = 0; i < number; i++)
+                Console.WriteLine(i);
             Console.ReadLine();
-            var inputReadLine = Console.ReadLine();
-                   }
+        }
     }
 }

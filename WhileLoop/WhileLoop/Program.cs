@@ -4,16 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelloWorld
+namespace WhileLoop
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
-            Console.WriteLine("Hello World");
+            int number = 0;
+            while(number < 5)
+            {
+                Console.WriteLine(number);
+                number = number + 1;
+            }
             Console.ReadLine();
-            var inputReadLine = Console.ReadLine();
-                   }
+        }
     }
 }
