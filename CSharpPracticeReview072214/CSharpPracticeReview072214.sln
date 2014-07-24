@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpPracticeReview072214", "CSharpPracticeReview072214\CSharpPracticeReview072214.csproj", "{CC511B4D-8619-4C72-A9F7-4906BD1DFCB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal", "Animal\Animal.csproj", "{8FC9E308-1152-4D9D-8920-C945EB1598BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC511B4D-8619-4C72-A9F7-4906BD1DFCB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC511B4D-8619-4C72-A9F7-4906BD1DFCB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC511B4D-8619-4C72-A9F7-4906BD1DFCB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC511B4D-8619-4C72-A9F7-4906BD1DFCB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FC9E308-1152-4D9D-8920-C945EB1598BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC9E308-1152-4D9D-8920-C945EB1598BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FC9E308-1152-4D9D-8920-C945EB1598BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC9E308-1152-4D9D-8920-C945EB1598BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
